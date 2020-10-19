@@ -11,4 +11,4 @@ El algoritmo de Prim, dado un grafo conexo, no dirigido y ponderado, encuentra u
 
 **Grafo utilizado**
 
-![Imagen Grafo](https://github.com/Jesus-Lares/Algoritmo-Dijkstra-Python/blob/master/algoritmoDijkstra.png)
+![Imagen Grafo](https://github.com/Jesus-Lares/Algoritmo-Prim/blob/main/grafo.png)
