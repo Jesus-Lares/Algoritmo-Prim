@@ -40,7 +40,7 @@ En este grafo, las interacciones necesarias para recorrer todos los puntos con e
 ('f', 'g')
 ```
 
-Dando como consecuencia que se fueran todando los puntos en este orden ` ['a', 'f', 'b', 'c', 'z', 'd', 'e', 'g']`
+Dando como consecuencia que se fueran tomando los puntos en este orden ` ['a', 'f', 'b', 'c', 'z', 'd', 'e', 'g']`
 
 ## Instalacion
 
